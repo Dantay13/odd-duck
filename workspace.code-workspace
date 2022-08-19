@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "odd-duck",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "odd-duck"
+	}
+}
